@@ -1,6 +1,6 @@
 # Electrónica Digital I
 
-Laboratorios de Digital I - Grupo 6 de Laboratorio - Grupo 5 de magistral
+Laboratorios de Digital I - Grupo 5 de Laboratorio - Grupo 3 de magistral
 
 ## Laboratorios
 
