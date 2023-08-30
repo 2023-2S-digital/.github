@@ -1,12 +1,15 @@
 # Electrónica Digital I
 
-Laboratorios de Digital I - Grupo 5 de Laboratorio - Grupo 3 de magistral
+Laboratorios de Electrónica Digital I 
+
+- Grupo 3 de magistral. Profesor Diego Alexander Tibaduiza Burgos
+- Grupo 5 de Laboratorio. Profesor [Johnny Germán Cubides Castro](https://github.com/johnnycubides)
 
 ## Laboratorios
 
 Listado de laboratorios:
 
-- Laboratorio I - [README](https://github.com/2023-2S-digital/laboratorio-I)
+- [Laboratorio I](https://github.com/2023-2S-digital/laboratorio-I)
 
 ## Participantes
 
