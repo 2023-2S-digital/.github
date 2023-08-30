@@ -1,10 +1,12 @@
 # Electrónica Digital I
 
-Laboratorios de Digital I - Grupo 6
+Laboratorios de Digital I - Grupo 6 de Laboratorio - Grupo 5 de magistral
 
 ## Laboratorios
 
-- Laboratorio I - [README](laboratorio-I/README.md)
+Listado de laboratorios:
+
+- Laboratorio I - [README](https://github.com/2023-2S-digital/laboratorio-I/README.md)
 
 ## Participantes
 
@@ -14,4 +16,4 @@ Laboratorios de Digital I - Grupo 6
 
 ## Licencia
 
-GNU General Public License v3.0. Please see [License File](LICENSE) for more information.
+GNU General Public License v3.0. Consulte el [Archivo de licencia](LICENSE) para obtener más información.
