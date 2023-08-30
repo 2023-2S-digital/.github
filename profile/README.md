@@ -6,7 +6,7 @@ Laboratorios de Digital I - Grupo 6 de Laboratorio - Grupo 5 de magistral
 
 Listado de laboratorios:
 
-- Laboratorio I - [README](https://github.com/2023-2S-digital/laboratorio-I/README.md)
+- Laboratorio I - [README](https://github.com/2023-2S-digital/laboratorio-I)
 
 ## Participantes
 
