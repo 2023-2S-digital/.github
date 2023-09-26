@@ -10,6 +10,7 @@ Laboratorios de Electrónica Digital I
 Listado de laboratorios:
 
 - [Laboratorio I](https://github.com/2023-2S-digital/laboratorio-I)
+- [Laboratorio II](https://github.com/2023-2S-digital/laboratorio-II)
 
 ## Participantes
 
